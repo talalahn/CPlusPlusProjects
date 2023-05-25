@@ -1,1 +1,5 @@
 # CPlusPlusProjects
+
+### Projects included:
+
+- MadLibs
